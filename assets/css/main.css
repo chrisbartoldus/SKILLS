@@ -2115,10 +2115,11 @@
 /* Two */
 
 	#two {
-		background: url("images/overlay.png"), url("../../images/two.jpg");
-		background-size: 256px 256px, cover;
-		background-attachment: fixed, fixed;
-		background-position: top left, center center;
+	background-size: 460 240;
+	background-attachment: fixed;
+	background-position: auto;
+	background-image: url(../../IMG_7210%20copy.jpg);
+	background-repeat: no-repeat;
 	}
 
 /* Contact */
